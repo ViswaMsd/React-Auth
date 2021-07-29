@@ -43,3 +43,9 @@
   background-color: #540d83;
   border-color: #540d83;
 }
+
+.status {
+  font-weight: 700;
+  font-size: larger;
+  color: black;
+}
